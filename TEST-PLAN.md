@@ -1,6 +1,5 @@
 # Demo and Test Checklist
 
-Confirm the controls and framebuffer behavior supported by the course simulator before testing. Add the actual key/button used and record observed results in the report.
 
 | Objective | Setup and action | Expected result | Actual result | Pass/fail |
 |---|---|---|---|---|
