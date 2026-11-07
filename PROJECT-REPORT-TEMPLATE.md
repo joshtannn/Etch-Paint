@@ -1,7 +1,5 @@
 # CPE 2300 Etch / Paint — Final Project Report
 
-> Complete this report using your team’s actual implementation, test results, and contributions. Do not claim a test passed until you ran it. The workbook requires all submitted RISC-V assembly to be written by the team.
-
 ## 1. Cover
 
 - **Project:** Etch / Paint
